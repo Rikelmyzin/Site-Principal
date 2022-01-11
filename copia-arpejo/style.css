@@ -1,0 +1,47 @@
+    @charset "UTF-8";
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .Primeira-Parte {
+        width: 100vw;
+        height: 81vh;
+        background-color: rgb(70, 70, 70);
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+    
+    .werock {
+        display: flex;
+        margin: auto;
+        width: auto;
+        height: auto;
+        position: absolute;
+    }
+    
+    .Primeira-Parte span {
+        position: relative;
+        bottom: 130px;
+        right: 100px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+    
+    body header {
+        background-color: rgb(70, 70, 70);
+    }
+    
+    body header a img {
+        position: relative;
+        width: 83px;
+        height: 40px;
+        left: 15px;
+        top: 15px;
+    }
+    
+    .imagens1 img {
+        width: 25%;
+    }
